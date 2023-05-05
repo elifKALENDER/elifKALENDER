@@ -10,6 +10,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Html Notes🎈🧨](https://eeliphu.blogspot.com/2023/05/html-notes.html)
+- [Computer Consepts✨🐱‍👤](https://eeliphu.blogspot.com/2023/04/computer-consepts.html)
+- [Format Notes🤞✨](https://eeliphu.blogspot.com/2023/04/format-notes.html)
+- [Front-End Notes 🎪✨](https://eeliphu.blogspot.com/2023/04/front-end-notes.html)
+- [Math Notes🌠🔢](https://eeliphu.blogspot.com/2023/04/math-notes.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
