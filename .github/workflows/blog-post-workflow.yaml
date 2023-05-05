@@ -11,5 +11,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 10
-          feed_list: "https://draft.blogger.com/feeds/3571366109303330267/posts/default"
+          feed_list: "https://rss.app/feeds/yiWuLqxh1okKCS7e.xml"
 
