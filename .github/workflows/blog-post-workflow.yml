@@ -17,5 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rss.app/feeds/yiWuLqxh1okKCS7e.xml"
+          max_post_count: 10
          
 
