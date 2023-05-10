@@ -20,6 +20,10 @@
 - [Doxygen Notes✔👽](https://eeliphu.blogspot.com/2023/04/doxygen-notes.html)
 - [C# Notes🧶🐱‍💻](https://eeliphu.blogspot.com/2023/03/c-notes.html)
 - [Resource:DSA 🧬{📈📉 }](https://eeliphu.blogspot.com/2023/03/resourcedata-structurealgorithm-and.html)
+- [ECLIPSE Notes 🪐🌘](https://eeliphu.blogspot.com/2023/03/eclipse-notes.html)
+- [PYTHON Notes🐱‍🏍{ }](https://eeliphu.blogspot.com/2023/03/python-notes.html)
+- [GiT Notes✨🌠](https://eeliphu.blogspot.com/2023/03/git-notes.html)
+- [1*Learning Process*](https://eeliphu.blogspot.com/2023/01/learning-process.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
