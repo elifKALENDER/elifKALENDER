@@ -10,20 +10,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Html Notes🎈🧨](https://eeliphu.blogspot.com/2023/05/html-notes.html)
-- [Computer Consepts✨🐱‍👤](https://eeliphu.blogspot.com/2023/04/computer-consepts.html)
-- [Format Notes🤞✨](https://eeliphu.blogspot.com/2023/04/format-notes.html)
-- [Front-End Notes 🎪✨](https://eeliphu.blogspot.com/2023/04/front-end-notes.html)
-- [Math Notes🌠🔢](https://eeliphu.blogspot.com/2023/04/math-notes.html)
-- [K_Shortcuts Σ&lpar;っ °Д °;&rpar;っ](https://eeliphu.blogspot.com/2023/04/kshortcuts.html)
-- [TUTORIAL📚🎈](https://eeliphu.blogspot.com/2023/04/tutorial.html)
-- [Doxygen Notes✔👽](https://eeliphu.blogspot.com/2023/04/doxygen-notes.html)
-- [C# Notes🧶🐱‍💻](https://eeliphu.blogspot.com/2023/03/c-notes.html)
-- [Resource:DSA 🧬{📈📉 }](https://eeliphu.blogspot.com/2023/03/resourcedata-structurealgorithm-and.html)
-- [ECLIPSE Notes 🪐🌘](https://eeliphu.blogspot.com/2023/03/eclipse-notes.html)
-- [PYTHON Notes🐱‍🏍{ }](https://eeliphu.blogspot.com/2023/03/python-notes.html)
-- [GiT Notes✨🌠](https://eeliphu.blogspot.com/2023/03/git-notes.html)
-- [1*Learning Process*](https://eeliphu.blogspot.com/2023/01/learning-process.html)
+- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
