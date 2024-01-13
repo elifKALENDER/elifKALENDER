@@ -10,7 +10,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired.](https://rss.app)
+- [https://rss.app](https://feeder.co/discover/f662579f85/eeliphu-blogspot-com))
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
