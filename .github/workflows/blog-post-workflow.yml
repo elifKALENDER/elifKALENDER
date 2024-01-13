@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1.8.5
+        uses: gautamkrishnar/blog-post-workflow@v1.0
         with:
           feed_list: "https://rss.app/feeds/7CrdB9Dfey2PxPA4.xml"
           max_post_count: 15
