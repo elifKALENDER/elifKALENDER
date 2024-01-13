@@ -16,7 +16,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.xml-sitemaps.com/download/feeder.co-8edba7ad2/sitemap.xml?"
+          feed_list: "https://github.com/elifKALENDER/elifKALENDER/blob/main/assets/sitemap.xml"
           max_post_count: 15
          
 
