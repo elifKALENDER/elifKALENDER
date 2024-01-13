@@ -10,7 +10,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
--[](https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com).
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
