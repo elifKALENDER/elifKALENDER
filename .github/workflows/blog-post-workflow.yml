@@ -16,7 +16,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rss.app/feeds/yiWuLqxh1okKCS7e.xml"
+          feed_list: "https://github.com/elifKALENDER/elifKALENDER/blob/main/assets/feed.rss"
           max_post_count: 15
          
 
