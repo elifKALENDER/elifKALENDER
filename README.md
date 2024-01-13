@@ -10,7 +10,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [https://rss.app](https://feeder.co/discover/f662579f85/eeliphu-blogspot-com))
+- [[https://rss.app](https://feeder.co/discover/f662579f85/eeliphu-blogspot-com))](https://feeder.co/discover/f662579f85/eeliphu-blogspot-com)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
