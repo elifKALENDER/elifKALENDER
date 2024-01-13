@@ -10,6 +10,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Computer Engineering-Notebook&amp;Project](https://eeliphu.blogspot.com/search)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
