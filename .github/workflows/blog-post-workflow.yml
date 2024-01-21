@@ -15,14 +15,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
-      # Download the XML file from the repository
-      - name: Download XML file
-        run: curl -sSL -o blog.xml "https://raw.githubusercontent.com/elifKALENDER/elifKALENDER/main/.github/assets/5776187_509.xml"
-
+     
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "file://blog.xml"
+          feed_list: "https://raw.githubusercontent.com/elifKALENDER/elifKALENDER/main/.github/assets/5776187_509.xml"
           #max_post_count: 15
 
