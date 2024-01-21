@@ -9,14 +9,13 @@
 - 📫 How to reach me **elifkalender.tr@gmail.com**
 
 ### Blogs posts
-
-<a href="https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com" target="_blank">
-<a href="https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com" target="_blank">
-<a href="https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com" target="_blank">
-<a href="https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com" target="_blank">
-<a href="https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com" target="_blank">
-<a href="https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com" target="_blank">
-<a href="[Format Notes🤞✨](https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com)">
+<ul>
+  <li><a href="https://eeliphu.blogspot.com/2023/04/kshortcuts.html">KShortcuts - April 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/04/front-end-notes.html">Front-End Notes - April 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/04/doxygen-notes.html">Doxygen Notes - April 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/03/eclipse-notes.html">Eclipse Notes - March 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/03/git-notes.html">Git Notes - March 2023</a></li>
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
