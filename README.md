@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://draft.blogger.com/feeds/3571366109303330267/posts/default" target="https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com">
+  <a href="https://feeder.co/discover/dfa9935d2f/eeliphu-blogspot-com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS Feed" height="30" width="40" />
   </a>
 </p>
