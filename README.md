@@ -10,11 +10,11 @@
 
 ### Blogs posts
 <ul>
-  <li><a href="https://eeliphu.blogspot.com/2023/04/kshortcuts.html">KShortcuts - April 2023</a></li>
-  <li><a href="https://eeliphu.blogspot.com/2023/04/front-end-notes.html">Front-End Notes - April 2023</a></li>
-  <li><a href="https://eeliphu.blogspot.com/2023/04/doxygen-notes.html">Doxygen Notes - April 2023</a></li>
-  <li><a href="https://eeliphu.blogspot.com/2023/03/eclipse-notes.html">Eclipse Notes - March 2023</a></li>
   <li><a href="https://eeliphu.blogspot.com/2023/03/git-notes.html">Git Notes - March 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/04/doxygen-notes.html">Doxygen Notes✔👽 - April 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/03/eclipse-notes.html">ECLIPSE Notes 🪐🌘 - March 2023</a></li>  
+  <li><a href="https://eeliphu.blogspot.com/2023/04/kshortcuts.html">K_Shortcuts Σ(っ °Д °;)っ- April 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/04/front-end-notes.html">Format Notes🤞✨ - April 2023</a></li>    
 </ul>
 
 
