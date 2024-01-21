@@ -60,46 +60,43 @@ User
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
- 
-  <!-- Unity -->
+ <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity/unity-icon.svg" alt="unity" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
-
   <!-- 3ds Max -->
-  <a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/autodesk_3ds_max/autodesk_3ds_max-icon.svg" alt="3ds Max" width="40" height="40"/>
-  </a>
-
+<!--<a href="https://tr.pinterest.com/pin/812336851554293799/" target="_blank" rel="noreferrer">
+  <img src="https://i.pinimg.com/564x/95/a8/8d/95a88d83d614a098ed5e9a61fec5858a.jpg" alt="Pinterest Image" width="40" height="40" style="background-color: #FFFFFF; padding: 5px; border-radius: 5px"/>
+</a>-->
   <!-- V-Ray -->
-  <a href="https://www.chaosgroup.com/vray" target="_blank" rel="noreferrer">
+  <!--<a href="https://www.chaosgroup.com/vray" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vray/vray-icon.svg" alt="V-Ray" width="40" height="40"/>
-  </a>
+  </a>-->
 
   <!-- Lumion -->
-  <a href="https://lumion.com/" target="_blank" rel="noreferrer">
+  <!--<a href="https://lumion.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/lumion/lumion-icon.svg" alt="Lumion" width="40" height="40"/>
-  </a>
+  </a>-->
 
   <!-- Revit -->
-  <a href="https://www.autodesk.com/products/revit/overview" target="_blank" rel="noreferrer">
+  <!--<a href="https://www.autodesk.com/products/revit/overview" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/autodesk_revit/autodesk_revit-icon.svg" alt="Revit" width="40" height="40"/>
-  </a>
+  </a>-->
 
   <!-- AutoCAD -->
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
+ <!-- <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/autodesk_autocad/autodesk_autocad-icon.svg" alt="AutoCAD" width="40" height="40"/>
-  </a>
+  </a>-->
 
   <!-- Eclipse -->
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" width="40" height="40"/>
   </a>
 
-  <!-- Visual Studio Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
-  </a>
+<!-- Visual Studio Code (Mavi) -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40" style="background-color: #007ACC; padding: 5px; border-radius: 5px"/>
+</a>
 
   <!-- Visual Studio -->
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
