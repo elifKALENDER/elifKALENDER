@@ -2,20 +2,100 @@
 		<!--	created with www.mysitemapgenerator.com	-->
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Computer Engineering-Notebook&amp;Project</title>
-		<link><![CDATA[https://eeliphu.blogspot.com]]></link>
-		<description>Computer Engineering-Notebook&amp;Project</description>
+		<title>Follow Computer Engineering... | Feeder — RSS Feed Reader</title>
+		<link><![CDATA[https://feeder.co]]></link>
+		<description>Follow Computer Engineering... | Feeder — RSS Feed Reader</description>
 		<language>en</language>
-		<pubDate>Sat, 13 Jan 2024 17:09:42 +0000</pubDate>
+		<pubDate>Sun, 21 Jan 2024 08:51:26 +0000</pubDate>
 		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
 
 		<item>
-			<guid isPermaLink="false">3628741740</guid>
-			<title>Computer Engineering-Notebook&amp;Project</title>
-			<link>https://eeliphu.blogspot.com/search</link>
+			<guid isPermaLink="false">3702153038</guid>
+			<title>Feeder Knowledge Base - Feeder Knowledge Base</title>
+			<link>https://feeder.co/knowledge-base/</link>
 			<dc:creator>Administrator</dc:creator>
 			<category>Site News</category>
-			<pubDate>Sat, 13 Jan 2024 17:08:36 GMT</pubDate>
+			<description>Feeder Knowledge Base</description>
+			<pubDate>Sun, 21 Jan 2024 10:51:25 +0200</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">1327322946</guid>
+			<title>Refund Policy - Feeder Help</title>
+			<link>https://feeder.co/help/legal/refund-policy/</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Legal</category>
+			<description>Returns We do not offer a refund once an account is paid for. In exceptional circumstances we do offer refunds. If you believe yours is such a circumstance please contact support@feeder.co with your account e-mail. Please note that the decision is at the discretion of Feeder, and one instance of a refund does not create</description>
+			<pubDate>Sun, 21 Jan 2024 10:51:24 +0200</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">854966200</guid>
+			<title>Feeder — RSS Feed Reader</title>
+			<link>https://feeder.co/?game=1&amp;show_site=1</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Sun, 21 Jan 2024 10:51:23 +0200</pubDate>
+			<enclosure url="https://static.feedercdn.com/game/destroy-fake-news.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3546081036</guid>
+			<title>Feeder Help - Get the Answer to your Questions</title>
+			<link>https://feeder.co/help/</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Get the Answer to your Questions</description>
+			<pubDate>Sun, 21 Jan 2024 10:51:22 +0200</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">776953558</guid>
+			<title>Create your account | Feeder — RSS Feed Reader</title>
+			<link>https://feeder.co/account?from=discover</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Sun, 21 Jan 2024 10:51:21 +0200</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">4199664098</guid>
+			<title>Feeder — RSS Feed Reader</title>
+			<link>https://feeder.co/how-it-works</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Sun, 21 Jan 2024 10:51:20 +0200</pubDate>
+			<enclosure url="https://assets.feedercdn.com/site/hiw/grab-hand@2x-a213476399b01afaf3104785c845143b750923e8956f68dd28884d6140071f60.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">2814794812</guid>
+			<title>Feeder Compliance | Feeder — RSS Feed Reader</title>
+			<link>https://feeder.co/compliance</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Sun, 21 Jan 2024 10:51:19 +0200</pubDate>
+			<enclosure url="https://assets.feedercdn.com/site/landing-pages/compliance-header-0873da65e1dde8ffeaffaaf24c8894b6016240af2a13c4f2a27f6e4aa6741939.jpg" type="image/jpeg" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">120170553</guid>
+			<title>Feeder - Discover | Feeder — RSS Feed Reader</title>
+			<link>https://feeder.co/discover</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Sun, 21 Jan 2024 10:51:18 +0200</pubDate>
+			<enclosure url="https://icons.feeder.co/www.bbc.co.uk" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1585309085</guid>
+			<title>About us | Feeder — RSS Feed Reader</title>
+			<link>https://feeder.co/about-us</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Sun, 21 Jan 2024 10:51:17 +0200</pubDate>
+			<enclosure url="https://assets.feedercdn.com/site/about/avatar-erik@2x-25fc7ac7e1569d8a3b06c955249ec9757fb9627c1afafff8c83243c0cb53ebe1.jpg" type="image/jpeg" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">2041644151</guid>
+			<title>Careers - Join the team | Feeder — RSS Feed Reader</title>
+			<link>https://feeder.co/careers</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Sun, 21 Jan 2024 10:51:16 +0200</pubDate>
 		</item>
 	</channel>
 </rss>
