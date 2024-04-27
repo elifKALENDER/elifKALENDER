@@ -5,13 +5,13 @@ User
 
 - 🌱 I’m currently learning **Game Development-Unity-C#**
 
-- 📝 I regularly write articles on  [https://eeliphu.blogspot.com/](https://www.elifkalender.blog/) & [https://eeliphu.blogspot.com/](https://eeliphu.blogspot.com/)
+- 📝 I regularly write articles on  [https://www.elifkalender.blog/](https://www.elifkalender.blog/) & [https://eeliphu.blogspot.com/](https://eeliphu.blogspot.com/)
 
 - 📫 How to reach me **elifkalender.tr@gmail.com**
 
   ### Portfolio & CV
 <ul>
-  <li><a href="[https://eeliphu.blogspot.com/2023/03/git-notes.html](https://www.elifkalender.blog/portfolio-collections/my-portfolio/myportfol%C4%B1o)">Portfolio </a></li>
+  <li><a href="https://www.elifkalender.blog/portfolio-collections/my-portfolio/myportfol%C4%B1o">Portfolio </a></li>
   <li><a href="https://www.elifkalender.blog/portfolio-collections/cv/cv-2cbac2">CV </a></li>     
 </ul>
 
