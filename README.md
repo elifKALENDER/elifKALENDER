@@ -3,7 +3,7 @@ User
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifkalender&label=Profile%20views&color=0e75b6&style=flat" alt="elifkalender" /> </p>
 
 
-- 🌱 I’m currently learning **Game Development(Unity-C#)**
+- 🌱 I’m currently learning **Data Science(Python,Numpy,Seaborn,Pandas,Mathplotlib,Scipy,OpenCV,TensorFlow) - Game Development(Unity-C#)**
 
 - 📝 I regularly write articles on  [https://www.elifkalender.blog/](https://www.elifkalender.blog/) & [https://eeliphu.blogspot.com/](https://eeliphu.blogspot.com/)
 
