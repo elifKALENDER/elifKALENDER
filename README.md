@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elifkalender" alt="elifkalender" /></a> </p>
 
-- 🌱 I’m currently learning **Unity, C# , Frontend**
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
 - 📝 I regularly write articles on [https://eeliphu.blogspot.com/](https://eeliphu.blogspot.com/)
 
