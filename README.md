@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://eeliphu.blogspot.com/](https://eeliphu.blogspot.com/)
 
-- 💬 Ask me about **3D Modelling**
+- 💬 Ask me about **Architectural design and Data Science**
 
 - 📫 How to reach me **elifkalender.tr@gmail.com**
 
@@ -16,6 +16,15 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<ul>
+  <li><a href="https://eeliphu.blogspot.com/2024/09/consepts-of-ds-and-ai.html">Consepts of DS and Ai 🎈🪁🎯 - September 2024</a></li>  
+  <li><a href="https://eeliphu.blogspot.com/2024/08/jupyter-notebook-anaconda-notes.html">Jupyter Noteb.-NOTES 🎈📒📊 - August 2024</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/03/git-notes.html">Git Notes - March 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/04/doxygen-notes.html">Doxygen Notes✔👽 - April 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/03/eclipse-notes.html">ECLIPSE Notes 🪐🌘 - March 2023</a></li>  
+  <li><a href="https://eeliphu.blogspot.com/2023/04/kshortcuts.html">K_Shortcuts Σ(っ °Д °;)っ- April 2023</a></li>
+  <li><a href="https://eeliphu.blogspot.com/2023/04/front-end-notes.html">Format Notes🤞✨ - April 2023</a></li>    
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
